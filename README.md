@@ -1,6 +1,6 @@
 # Learning-Blog
 this is a web application project
-In the Learning blog people can share their knowledge about anything and user can get all the information shared by someone. 
+where people can share their knowledge about anything and user can get all the information shared by someone. 
 we will give facility to the user to comment and like the post.
 
 # Technology used
